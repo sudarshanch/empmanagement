@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#errMessage{
+  color: red;
+ }
+
+ h1, h5 {
+   color: green;
+ }
+ #form{
+   margin: 10px 30rem 10px 30rem;
+  }
